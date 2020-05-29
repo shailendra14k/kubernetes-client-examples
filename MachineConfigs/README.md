@@ -1,4 +1,7 @@
 # MachineConfigs
 
+..........Inprogress
+
 1. List 
-2. Create -- Inprogress
+2. Create 
+3. Update
